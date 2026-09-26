@@ -1,0 +1,1 @@
+Clockwork is an Apple iPadOS app that track user's time utilization of productive softwares such as GoodNotes or Notability to help users better understanding their time use more than the standard system apple tracking infomartion presented in OS setting. 
